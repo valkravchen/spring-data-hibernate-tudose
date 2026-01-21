@@ -1,6 +1,7 @@
 package ecommerce;
 
 public class BillingDetails {
+
     private String account;
     private String bankName;
     private User user;
